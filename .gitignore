@@ -1,0 +1,9 @@
+.dart_tool/
+.packages
+pubspec.lock
+site/
+store_listings/
+RELEASE_NOTES.md
+PRIVACY.md
+data_disclosure.md
+report.md
