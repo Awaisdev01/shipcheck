@@ -157,6 +157,17 @@ PRs welcome — the codebase is a small, dependency-light Dart package
 (`args`, `path`, `yaml`). Run tests with `dart test`, lint with
 `dart analyze`.
 
+## More from this ecosystem
+
+| | Tool |
+|---|---|
+| 📡 **New** | [smsaria](https://github.com/awaisdev5765/smsaria) — open-source AI gateway for basic phones (SMS + USSD) |
+| Design | [nativetap](https://github.com/awaisdev5765/nativetap) — mobile design intelligence |
+| Shell | [bashproof](https://github.com/awaisdev5765/bashproof) — agent-proof quoting |
+| Audit | [diffconscience](https://github.com/awaisdev5765/diffconscience) — pre-handoff diff audit |
+| Launch | [shipcheck](https://pub.dev/packages/shipcheck) — release-readiness |
+| AI features | [promptguard](https://pub.dev/packages/promptguard) — prompt regression tests |
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
