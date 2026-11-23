@@ -43,7 +43,7 @@ dart pub global activate shipcheck
 Or run from source:
 
 ```bash
-git clone https://github.com/awaisdev5765/shipcheck.git
+git clone https://github.com/Awaisdev01/shipcheck.git
 cd shipcheck
 dart pub global activate --source path .
 ```
@@ -161,10 +161,10 @@ PRs welcome — the codebase is a small, dependency-light Dart package
 
 | | Tool |
 |---|---|
-| 📡 **New** | [smsaria](https://github.com/awaisdev5765/smsaria) — open-source AI gateway for basic phones (SMS + USSD) |
-| Design | [nativetap](https://github.com/awaisdev5765/nativetap) — mobile design intelligence |
-| Shell | [bashproof](https://github.com/awaisdev5765/bashproof) — agent-proof quoting |
-| Audit | [diffconscience](https://github.com/awaisdev5765/diffconscience) — pre-handoff diff audit |
+| 📡 **New** | [smsaria](https://github.com/Awaisdev01/smsaria) — open-source AI gateway for basic phones (SMS + USSD) |
+| Design | [nativetap](https://github.com/Awaisdev01/nativetap) — mobile design intelligence |
+| Shell | [bashproof](https://github.com/Awaisdev01/bashproof) — agent-proof quoting |
+| Audit | [diffconscience](https://github.com/Awaisdev01/diffconscience) — pre-handoff diff audit |
 | Launch | [shipcheck](https://pub.dev/packages/shipcheck) — release-readiness |
 | AI features | [promptguard](https://pub.dev/packages/promptguard) — prompt regression tests |
 
