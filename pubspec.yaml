@@ -4,10 +4,10 @@ description: >-
   project and generate the complete launch kit: store listings, privacy
   disclosures, release notes, and a pre-launch scorecard — from one command.
 version: 0.1.0
-repository: https://github.com/awaisdev5765/shipcheck
-issue_tracker: https://github.com/awaisdev5765/shipcheck/issues
-homepage: https://github.com/awaisdev5765/shipcheck
-documentation: https://github.com/awaisdev5765/shipcheck#readme
+repository: https://github.com/Awaisdev01/shipcheck
+issue_tracker: https://github.com/Awaisdev01/shipcheck/issues
+homepage: https://github.com/Awaisdev01/shipcheck
+documentation: https://github.com/Awaisdev01/shipcheck#readme
 
 environment:
   sdk: ^3.4.0
